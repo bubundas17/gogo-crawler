@@ -1,0 +1,13 @@
+{
+  "name": "gogo-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.3",
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cli-progress": "^3.10.0",
+    "mongoose": "^6.2.1"
+  }
+}
